@@ -1,4 +1,4 @@
-# Welcome to EpsilonsQc GitHub Pages
+# Welcome to Alexandre Perreault (EpsilonsQc) GitHub Pages
 
 Whenever you commit to this repository, GitHub Pages will publish the pages.
 
