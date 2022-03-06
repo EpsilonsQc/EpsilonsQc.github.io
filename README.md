@@ -1,4 +1,4 @@
-## Welcome to EpsilonsQc GitHub Pages
+# Welcome to EpsilonsQc GitHub Pages
 
 Whenever you commit to this repository, GitHub Pages will publish the pages.
 
@@ -50,6 +50,6 @@ as well as all the other kickass CC0-licensed images at Unsplash (unsplash.com).
 	Other:
 		Responsive Tools (github.com/ajlkn/responsive-tools)
 
-### Support or Contact
+## Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
