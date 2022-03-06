@@ -2,11 +2,7 @@
 
 Whenever you commit to this repository, GitHub Pages will publish the pages.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
-
-Aerial by HTML5 UP
+## Aerial by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
@@ -14,9 +10,7 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
 This is Aerial, a single page, single screen responsive site template. Real simple.
 Makes heavy use of CSS animation (something I've been messing with a lot lately).
 Should work well as a landing page that just directs folks to your stuff elsewhere
-on the www. Sass sources are also included, so if you've never used Sass and you're
-interested in giving it a try, head on over to sass-lang.com (and if not, you can
-safely delete the "sass/" folder).
+on the www.
 
 The scrolling mountainous background was derived from "Icefields" by Ryan Schroeder,
 a talented photographer from Vancouver who graciously released it on Unsplash under
@@ -29,7 +23,7 @@ AJ
 aj@lkn.io | @ajlkn
 
 
-The Scrolling Background:
+## The Scrolling Background:
 
 	This relies entirely on CSS to do its thing, which is cool, but that makes
 	changing it a bit weird/tricky at first. You can still use pretty much any image
@@ -52,14 +46,7 @@ The Scrolling Background:
 		and use it to set the page background color, URL, and placement of
 		your image. It should be as close to 1500px wide as you can get it.
 
-	Sass:
-
-		Set the value of $bg to the page background color, URL, and placement
-		of your image. Change $bg-width if your image is something other than
-		1500px wide.
-
-
-Credits:
+## Credits:
 
 	Background Image:
 		Ryan Schroeder via Unsplash (unsplash.com - CC0 licensed)
@@ -70,3 +57,7 @@ Credits:
 
 	Other:
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
