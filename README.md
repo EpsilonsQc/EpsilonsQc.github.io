@@ -1,8 +1,8 @@
 # Welcome to EpsilonsQc GitHub Pages
 
-Whenever you commit to this repository, GitHub Pages will publish the pages.
+URL : https://epsilonsqc.github.io/
 
-https://epsilonsqc.github.io/
+Whenever you commit to this repository, GitHub Pages will publish the pages.
 
 ## Aerial by HTML5 UP
 html5up.net | @ajlkn
