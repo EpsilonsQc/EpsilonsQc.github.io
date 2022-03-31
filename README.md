@@ -1,6 +1,6 @@
 # Welcome to EpsilonsQc GitHub Pages
 
-URL : https://epsilonsqc.github.io/
+URL : https://epsilonsqc.github.io
 
 Whenever you commit to this repository, GitHub Pages will publish the pages.
 
