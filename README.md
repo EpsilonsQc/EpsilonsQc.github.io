@@ -2,6 +2,8 @@
 
 Whenever you commit to this repository, GitHub Pages will publish the pages.
 
+https://epsilonsqc.github.io/
+
 ## Aerial by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
