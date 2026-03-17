@@ -1,0 +1,72 @@
+<!DOCTYPE HTML>
+<html lang="en">
+	<head>
+		<title>Alexandre Perreault | Developer</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<meta name="description" content="Alexandre Perreault (Epsilons) — Software Engineer, Game Developer, Game Designer." />
+		<meta property="og:title" content="Alexandre Perreault | Developer" />
+		<meta property="og:description" content="Software Engineer, Game Developer, Game Designer." />
+		<meta property="og:image" content="https://epsilonsqc.github.io/assets/images/og-image.png" />
+		<meta property="og:url" content="https://epsilonsqc.github.io" />
+		<meta property="og:type" content="website" />
+		<link rel="icon" href="assets/images/favicon.ico" />
+		<link rel="apple-touch-icon" href="assets/images/apple-touch-icon.png" />
+		<link rel="preconnect" href="https://fonts.googleapis.com" />
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+		<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300;900&display=swap" />
+		<link rel="stylesheet" href="assets/css/fontawesome-all.min.css" />
+		<link rel="stylesheet" href="assets/css/base.css" />
+		<link rel="stylesheet" href="assets/css/matrix-rain.css" />
+		<link rel="stylesheet" href="assets/css/ascii-cat.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+		<button id="lang-toggle"></button>
+		<div id="wrapper">
+			<canvas id="bg"></canvas>
+			<div id="main">
+
+				<!-- Header (name + tagline) -->
+				<header id="header">
+					<h1>Alexandre Perreault</h1>
+					<p id="tagline"></p>
+				</header>
+
+				<!-- ASCII Cat -->
+				<div id="ascii-cat">
+					<pre id="cat-art"></pre>
+				</div>
+
+				<!-- Links -->
+				<nav id="nav-links">
+					<ul>
+						<li><a href="https://www.linkedin.com/in/epsilons" target="_blank" rel="noopener noreferrer" title="LinkedIn" class="icon fa-brands fa-linkedin"><span class="label">LinkedIn</span></a></li>
+						<li><a href="https://github.com/EpsilonsQc" target="_blank" rel="noopener noreferrer" title="GitHub" class="icon fa-brands fa-github"><span class="label">GitHub</span></a></li>
+						<li><a href="https://stackoverflow.com/users/18284891/epsilons" target="_blank" rel="noopener noreferrer" title="Stack Overflow" class="icon fa-brands fa-stack-overflow"><span class="label">Stack Overflow</span></a></li>
+						<li><a href="mailto:epsilons@hotmail.com" target="_blank" rel="noopener noreferrer" title="Email" class="icon fa-solid fa-envelope"><span class="label">Email</span></a></li>
+						<li><a href="#" id="about-link" class="icon fa-solid fa-info-circle"><span class="label">About</span></a></li>
+					</ul>
+				</nav>
+				<div id="about-modal" class="modal-hidden">
+					<div id="about-modal-content">
+						<button id="about-close">&times;</button>
+						<p></p>
+						<p></p>
+					</div>
+				</div>
+
+				<!-- Footer -->
+				<footer id="footer">
+					<a href="#" id="copyright-link" class="copyright">&copy; <span id="year"></span> Alexandre Perreault (Epsilons)</a>
+				</footer>
+
+			</div>
+		</div>
+		<script src="assets/js/init.js"></script>
+		<script src="assets/js/i18n.js"></script>
+		<script src="assets/js/about-modal.js"></script>
+		<script src="assets/js/matrix-rain.js"></script>
+		<script src="assets/js/ascii-cat.js"></script>
+	</body>
+</html>
