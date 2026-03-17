@@ -1,0 +1,92 @@
+/* Reset */
+
+html, body, div, h1, p, a, canvas {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+html { box-sizing: border-box; }
+*, *:before, *:after { box-sizing: inherit; }
+
+/* Base */
+
+body {
+	background: #05050f;
+	overflow: hidden;
+	color: #fff;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-weight: 300;
+}
+
+#wrapper {
+	height: 100%;
+	left: 0;
+	position: fixed;
+	top: 0;
+	width: 100%;
+}
+
+#main {
+	height: 100%;
+	left: 0;
+	position: fixed;
+	text-align: center;
+	top: 0;
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+/* Content */
+
+h1 {
+	font-size: 6em;
+	font-weight: 900;
+	letter-spacing: -0.035em;
+	line-height: 1em;
+	color: #30FE5E;
+}
+
+p {
+	font-size: 1.25em;
+	margin-top: 0.5em;
+	opacity: 0.6;
+}
+
+#error-title {
+	font-size: 1.5em;
+	opacity: 0.75;
+	margin-top: 0.75em;
+}
+
+#error-message {
+	font-size: 1em;
+	margin-top: 0.25em;
+}
+
+a {
+	color: rgba(255, 255, 255, 0.6);
+	text-decoration: none;
+	border: none;
+	transition: color 0.2s ease-in-out;
+}
+
+a:hover {
+	color: #00ff44;
+}
+
+/* Responsive */
+
+@media screen and (max-width: 736px) {
+	h1 { font-size: 3.5em; }
+	p { font-size: 1em; }
+}
+
+/* Reduced Motion */
+
+@media (prefers-reduced-motion: reduce) {
+	#bg { display: none; }
+}
