@@ -1,0 +1,17 @@
+/* Fallback for JavaScript-disabled browsers */
+
+#wrapper {
+	opacity: 1 !important;
+}
+
+#header {
+	opacity: 1 !important;
+}
+
+#nav-links li {
+	opacity: 1 !important;
+}
+
+#ascii-cat {
+	opacity: 1 !important;
+}
